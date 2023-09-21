@@ -1,4 +1,4 @@
-### Hi I'am Omkar 👋
+### Hi I'am Omkar aka Clint👋
 
 <!--
 **0xClint/0xClint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
