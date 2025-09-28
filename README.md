@@ -16,11 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://gitpay-five.vercel.app/api/ens-stats?ens=clint.eth&show_icons=true" alt="clint.eth" />
-  <a href="https://gitpay-five.vercel.app/donate?ens=clint.eth&amount=1" target="_blank">
-    <img src="https://gitpay-five.vercel.app/api/donate?ens=clint.eth&amount=1&show_icons=true" alt="clint.eth" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://gitpay-five.vercel.app/api/dashboard?ens=clint.eth&show_icons=true" alt="clint.eth" />
+  <img src="https://gitpay-vert.vercel.app/api/dashboard?ens=shevxer.eth&show_icons=true" alt="shevxer" />
 </p>
